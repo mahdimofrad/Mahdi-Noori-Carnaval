@@ -1,0 +1,63 @@
+.sliderbox{
+    height: 475px;
+    margin: 10px auto 10px auto;
+    background-color: aliceblue;
+    box-shadow: 2px 2px 4px  rgb(202, 201, 201);
+}
+img:hover{
+    -webkit-filter: brightness(70%);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+    cursor: pointer;    
+}
+.image-caption p{
+    background: rgba(0, 0, 0, 0.60);
+    color: #fff;
+    font-size: 12px;
+    height: 25px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    margin-top: -30px;
+    cursor: pointer;
+}
+.image-position{
+    height: 50%;
+    padding: 3px;
+    box-sizing: border-box;
+}
+.limages{
+    width:25%;
+    height: 97%; 
+    margin-left: 8px;
+    margin-top: -460px;   
+    
+    float: left;
+}
+.cimage{
+    width:48%;
+    height: 97%;  
+    margin-left: 25px;
+    margin-top: 9px;
+    float: right;
+}
+.ccontant{
+    height: 100%;
+    padding: 3px;
+    box-sizing: border-box;
+}
+.rimages{
+    width:25%;
+    height: 97%;   
+    margin: 8px; 
+    float: right;
+}
+.limages a img,.rimages a img,.cimage a img{
+    height: 100%;    
+    width: 100%;
+    cursor: pointer;
+    box-sizing: border-box;
+}

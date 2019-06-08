@@ -1,0 +1,115 @@
+.center-box{
+    width: 59%;
+    height: 1000px;
+    margin: 10px 5px 0 15px;
+    background-color: white;
+    float: left;
+    box-shadow: 2px 2px 4px  rgb(202, 201, 201);
+    
+}
+
+.center-box .center-box-element{
+    height: 860px;
+    width: 100%;
+}
+.center-box-element ul {
+    padding-left: 20px;
+    
+}
+.center-box-element ul li{
+    list-style: none;
+    font-size: 12px;
+    color: gray;
+
+}
+.center-box-element ul li:first-child{
+    margin-top: -10px;
+}
+.center-box-element ul li svg{
+    margin-right: 5px;
+}
+.center-box-element img{
+    width: 96%;
+    height: 70%;
+    margin-left: 2%;
+    
+}
+.btn-green{
+    padding: 9px 13px;
+    font-size: 12px;
+    background-color: #35b995;
+    color: white;
+    
+}
+.btn-div{
+    text-align: center;
+    padding: 20px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-Right: auto;
+}
+.caption-div{
+    text-align: center;
+    margin-left: auto;
+    margin-Right: auto;
+}
+.caption-text{
+    border-bottom: #35b995 3px solid;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.location-box{
+    text-align: center;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-Right: auto;
+    cursor: pointer;
+    padding: 10px;
+    
+}
+
+.location-box span,.location-box  svg{
+    margin-left: 10px;
+    font-size: 14px;
+}
+.location-box  svg{
+    color: #c1c1c1;
+}
+
+.center-box-element p{
+    text-align: center;
+    width: 95%;
+    margin: 5px auto;
+    direction: rtl;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.center-box-element .text-center {
+    border: 1px solid #f2f2f2;
+    border-radius: 100%;
+    padding:10px;
+    margin-right: 10px;
+}
+.center-box-element ul {
+    padding-left: 20px;
+    
+}
+.center-box-element ul li{
+    list-style: none;
+    font-size: 12px;
+    color: gray;
+
+}
+.center-box-element ul li:first-child{
+    margin-top: -10px;
+}
+.center-box-element ul li svg{
+    margin-right: 5px;
+}
+.center-box-element img{
+    width: 96%;
+    height: 70%;
+    margin-left: 2%;
+    
+}

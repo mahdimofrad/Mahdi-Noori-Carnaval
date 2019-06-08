@@ -1,0 +1,49 @@
+.leftbox{
+    width: 15%;
+    height: 1540px;
+    float: left;
+    background-color: white;
+    box-shadow: 2px 2px 4px  rgb(202, 201, 201);
+    margin-top:10px;
+}
+.leftbox img{
+    width: 80%;
+    height: 130px;
+    margin-left: 10%;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.leftbox img:hover{
+    -webkit-filter: brightness(70%);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.leftbox p{
+    width: 80%;
+    margin-left: 5%;
+    font-size: 12px;
+    padding: 10px;
+    direction: rtl;
+    line-height: 20px;
+    font-weight: normal;
+    text-align: center;
+    border-bottom: 1px solid #e6e0e0 !important;
+    cursor: pointer;
+}
+.leftbox h4{
+    width: 80%;
+    text-align: center;
+    height: initial;
+    color: #537abd !important;
+    font-size: 14px;
+    border-bottom: 1px solid #4d6faa !important;
+    border-right: 5px solid #4d6faa !important;
+    margin-left: 7%;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+

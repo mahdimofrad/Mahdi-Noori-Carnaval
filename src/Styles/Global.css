@@ -1,0 +1,27 @@
+.right{
+    float:right;
+}
+.left{
+    float:right;
+}
+.half-width{
+    width:50%;
+}
+.thirty-width{
+    width:33%;
+}
+.color-green{
+    color: #35b995;
+}
+.border-green-bottom{
+    border-bottom: #35b995 solid 1px;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-left{
+    text-align: left;
+}

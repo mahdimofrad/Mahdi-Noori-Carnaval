@@ -1,0 +1,88 @@
+.right-box{
+    width: 24%;
+    height: 1000px;
+    background-color:white;
+    float:right;
+    box-shadow: 2px 2px 4px  rgb(202, 201, 201);
+    margin-top:10px;
+}
+.right-box img{
+    width: 95%;
+    height: 110px;
+    
+}   
+.right-box img:hover{
+    -webkit-filter: brightness(70%);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+    
+}  
+.right-box h4{
+    width: 85%;
+    text-align: right;
+    color: #35b995 !important;
+    font-size: 14px;
+    border-bottom: 1px solid #35b995 !important;
+    border-right: 5px solid #35b995 !important;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 13px;
+    margin-top: 10px;
+    padding-bottom: 2px;
+    padding-right: 10px;
+}
+.right-box hr{
+    width: 90%;
+    margin: 0 auto;
+    display: block; height: 1px;
+    border: 0; border-top: 1px solid #f1f1f1;
+    
+}
+.right-box a{
+    cursor: pointer;
+}
+
+.right-box .right-post{
+    padding: 5px 10px;
+    overflow: hidden;
+    
+}
+
+.right-post div{
+    width: 50%;
+    
+}
+
+
+.right-box .right-post-elements{
+    
+    direction: rtl;
+    display: inline-block;
+}
+
+.right-box span{
+    font-size: 10px;
+    font-weight: bold;
+    text-align: right;
+    padding-bottom: 5px;
+    color: #35b995 !important;
+    border-bottom: 1px solid #35b995 !important;
+    
+}
+.right-box p{
+    font-size: 11px;
+    margin-top: 5px;
+    margin-bottom: 45px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.right-box .right-post-elements a{
+    font-size: 10px;
+    color: gray;
+    font-weight: bold;
+    
+
+}
